@@ -28,17 +28,17 @@
       </div>
     </td>
     
-    <td width="45%" valign="top">
+  <td width="45%" valign="top">
       <h3 align="center">⚡ Live Feed</h3>
       
-      <div align="center">
+  <div align="center">
         <img src="https://readme-jokes.vercel.app/api?theme=dark&hide_border=true" width="90%" />
       </div>
       <br/>
       
-      <img src="https://github-readme-stats.vercel.app/api?username=el-bugg&show_icons=true&theme=buefy&hide_border=true&bg_color=00000000&count_private=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=el-bugg&show_icons=true&theme=buefy&hide_border=true&bg_color=00000000&count_private=true" width="100%" />
       
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-bugg&layout=compact&theme=buefy&hide_border=true&bg_color=00000000" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-bugg&layout=compact&theme=buefy&hide_border=true&bg_color=00000000" width="100%" />
     </td>
   </tr>
 </table>
