@@ -6,8 +6,14 @@
   <a href="https://github.com/el-bugg?tab=repositories">
     <img src="https://img.shields.io/badge/ROOT/REPOS-ACCESS-000?style=for-the-badge&logo=github&logoColor=white&color=101010&labelColor=7F00FF"/>
   </a>
-  <a href="https://linkedin.com/in/USERNAME-ANDA">
-    <img src="https://img.shields.io/badge/ROOT/LINKEDIN-CONNECT-000?style=for-the-badge&logo=linkedin&logoColor=white&color=101010&labelColor=0077B5"/>
+  <a href="https://www.linkedin.com/in/ahmad-zaki-aldrin-4737372a8?trk=contact-info">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-000?style=for-the-badge&logo=linkedin&logoColor=white&color=101010&labelColor=0077B5"/>
+  </a>
+  <a href="https://www.instagram.com/zaakii.al?igsh=MW9zZWZyamw1cWU5Yg==">
+    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-000?style=for-the-badge&logo=instagram&logoColor=white&color=101010&labelColor=E4405F"/>
+  </a>
+  <a href="mailto:ahmdzaki249@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-SEND_PACKET-000?style=for-the-badge&logo=gmail&logoColor=white&color=101010&labelColor=D14836"/>
   </a>
 </div>
 
@@ -18,7 +24,7 @@
     <td width="55%" valign="top">
       <h3 align="center">🌇 Contrib-City (3D Map)</h3>
       <div align="center">
-        <img src="https://github.com/el-bugg/el-bugg/blob/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric" width="100%"/>
+        <img src="https://raw.githubusercontent.com/el-bugg/el-bugg/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric" width="100%"/>
       </div>
       <br/>
       <div align="center">
@@ -28,32 +34,32 @@
       </div>
     </td>
     
-  <td width="45%" valign="top">
+   <td width="45%" valign="top">
       <h3 align="center">⚡ Live Feed</h3>
-      
-  <div align="center">
+          <div align="center">
         <img src="https://readme-jokes.vercel.app/api?theme=dark&hide_border=true" width="90%" />
       </div>
       <br/>
-      
-  <img src="https://github-readme-stats.vercel.app/api?username=el-bugg&show_icons=true&theme=buefy&hide_border=true&bg_color=00000000&count_private=true" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=el-bugg&show_icons=true&theme=buefy&hide_border=true&bg_color=00000000&count_private=true" width="100%" />
       
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-bugg&layout=compact&theme=buefy&hide_border=true&bg_color=00000000" width="100%" />
-    </td>
+  </td>
   </tr>
 </table>
 
 <h3 align="center">☢️ Nuclear Tech Arsenal</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,nodejs,express,python,django,flask,java,spring,go,docker,kubernetes,aws,gcp,firebase,supabase,mongodb,postgres,mysql,redis,git,linux&perline=15&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,nodejs,express,python,django,flask,java,spring,go,docker,kubernetes,aws,gcp,firebase,supabase,mongodb,postgres,mysql,redis,git,linux,figma,ps&perline=15&theme=dark" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/el-bugg/el-bugg/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/el-bugg/el-bugg/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer" width="100%"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=el-bugg&label=SYSTEM+TRAFFIC&color=7F00FF&style=plastic" alt="views" />
 </div>
